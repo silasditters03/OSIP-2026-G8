@@ -1,1 +1,16 @@
 This is the space for students of the course to produce their improved step-by-step instructions. 
+
+This document shows the detailed step-by-step instruction for building the gearbox. 
+It is split up into two segments. Segment 1: 3D-Printing and Segment 2: Assembly.
+
+Segment 1: 3D-Printing
+1. Load the correct fillament in the printer. For this project we recommend PLA as a fillament.
+2. When the printer is ready to print, head over the the PC in LPL and open PrusaSlicer.
+3. The .step files that need to be sliced can be found in the Hardware folder
+4. When opening .step files in Prusaslicer, you can drag in multiple files at once. This is recommended to save time.
+    We put all the gears in one slice and the box components in a seperate one.
+5. When placing the objects in PrusaSlicer make sure they are oriented with the most surface area down. (driver_gear.step and top_plate_v2 must be flipped in z-axis to accomplish this, others are already fine_=)
+6. Once the desired objects are placed, we can assign printing settings. First, on the right hand side, select the correct printer
+7. Select the correct print settings. You want to select the distance that is about 1/2 the nozzle diameter of the printer you will use.
+    Select STRUCTURAL for sturdier builds that take longer and SPEED for faster prints that are less sturdy.
+8. Select the correct fillament
