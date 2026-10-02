@@ -13,4 +13,9 @@ Segment 1: 3D-Printing
 6. Once the desired objects are placed, we can assign printing settings. First, on the right hand side, select the correct printer
 7. Select the correct print settings. You want to select the distance that is about 1/2 the nozzle diameter of the printer you will use.
     Select STRUCTURAL for sturdier builds that take longer and SPEED for faster prints that are less sturdy.
-8. Select the correct fillament
+8. Select the correct fillament (this can be found on the fillament role on hanging on the printer)
+9. If needed, select the correct support and brim. A brim is recommended for prints with less surface area touching the bed, or prints that are taller than they are wide.
+10. If all previous steps were successful, you can now slice (bottom right)
+11. Transfer sliced .gcode to printer. The PCs in LPL are connected with the 3D-printers. You can transfer a sliced build to the printer with the button in the bottom right (next to the large "Export g-code" button)
+NOTE: If you are printing at temperatures above 170 °C, the nozzle will first calibrate and go to a temperature below your printing temperature. This will take a bit, but when done it will automatically go to the higher
+        printing temperature, so do not panic!
