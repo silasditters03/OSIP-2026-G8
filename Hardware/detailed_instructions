@@ -17,5 +17,12 @@ Segment 1: 3D-Printing
 9. If needed, select the correct support and brim. A brim is recommended for prints with less surface area touching the bed, or prints that are taller than they are wide.
 10. If all previous steps were successful, you can now slice (bottom right)
 11. Transfer sliced .gcode to printer. The PCs in LPL are connected with the 3D-printers. You can transfer a sliced build to the printer with the button in the bottom right (next to the large "Export g-code" button)
+12. Once its sent to the printer, head over to it. On the screen you will be prompted to start the print.
 NOTE: If you are printing at temperatures above 170 °C, the nozzle will first calibrate and go to a temperature below your printing temperature. This will take a bit, but when done it will automatically go to the higher
         printing temperature, so do not panic!
+
+
+Segment 2: Assembly
+1. Collect all printed parts, you should have: A housing top plate, housing bottom plate, 4 housing pillars, 1 driving gear, 1 enganging hear, 3 24-tooth gears of different heights.
+2. From the drawers at LPL (by the tables) collect the following: 4 bolts, 4 bolt screws (thin enough to pass through the pillars), 3 screws/pins that fit through the gears and are long enough to go all the way through
+3. contd...
