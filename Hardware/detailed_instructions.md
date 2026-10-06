@@ -29,7 +29,7 @@ Segment 2: Assembly
 4. From the drawers at LPL (by the tables) collect the following: 4 bolts, 4 bolt screws (thin enough to pass through the pillars), 3 screws/pins (from 'Allen bolts, keys and pins' that fit through the gears and are long enough to go all the way through
 5. In the map Documents -> Images you can find 5 images that'll help you. Ope the box you see in
 6. <div style="display: flex; justify-content: space-between;">
-  <img src="IMG_5685.jpeg" alt="lpl sharing" style="width: 30%;"/>
+  <img src="./Documents/Images/IMG_5685.jpeg" alt="lpl sharing" style="width: 30%;"/>
   <figcaption>Figure: LPL shop front with current and future letters<figcaption>
 </div> 
    (M1 tot en met M2,4). Ignore the lime box you see in Imggeneral.jpg and pick 2 screws out of the pink box you see in the image. 
