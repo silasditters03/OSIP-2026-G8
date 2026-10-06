@@ -26,9 +26,13 @@ Segment 2: Assembly
 1. Collect all printed parts, you should have: A housing top plate, housing bottom plate, 4 housing pillars, 1 driving gear, 1 enganging hear, 3 24-tooth gears of different heights.
 2. Get a motor from the storage in the workshop. Open the drawer which says Electronic components 4 and actuators and grab a 6 Volt motor (to the left). 
 3. Leave the protolab and go the storage unit in the middle of the workplace and open the 'ball bearings' drawer and grab 1 bearing which is in a plastic casing called 'IBB  688-2RS NI25J'. This should fit perfectly in the topplate you printed. 
-4. From the drawers at LPL (by the tables) collect the following: 4 bolts, 4 bolt screws (thin enough to pass through the pillars), 3 screws/pins that fit through the gears and are long enough to go all the way through
-5. In the map Documents -> Images you can find 3 images for the screws you need. Ope the box you see in IMG_5685.jpeg (M1 tot en met M2,4). Ignore the lime box you see in Imggeneral.jpg and pick 2 screws out of the pink box you see in the image. 
+4. From the drawers at LPL (by the tables) collect the following: 4 bolts, 4 bolt screws (thin enough to pass through the pillars), 3 screws/pins (from 'Allen bolts, keys and pins' that fit through the gears and are long enough to go all the way through
+5. In the map Documents -> Images you can find 5 images that'll help you. Ope the box you see in IMG_5685.jpeg (M1 tot en met M2,4). Ignore the lime box you see in Imggeneral.jpg and pick 2 screws out of the pink box you see in the image. 
    These 2 screws let you attach the motor to your baseplate. 
 6. Next, open the 'M4' drawer and grab 5 spacers you see in the image M4IMG.jpg surrounded by blue. You will need them to space out the cogs. 
-7. Now use all the materials to build the gearbox. 
+7. Now use all the materials to build the gearbox. In the photos Endresult you can see how we build the gearbox. The most important thing to see in the images is the order you place the gears in. The height of the small part of the 3 similar cogs should be the smallest for the fourth gear (seen from the motor).   There is 1 spacer between the base plate (motor side) and the 2nd gear (2nd from the motor side), 2 spacers between the base plat and the 3rd cog. 1 between the 2nd and 4th cog and 1 between the 3rd and 5th cog. We use the bolts to
+   attach the pillars to both plates. We also used some tape to make sure the gears wouldnt get loose. 
+8. Now test your built gearbox. The arduino code is in 'Software'. 
+
+Good luck!
 
