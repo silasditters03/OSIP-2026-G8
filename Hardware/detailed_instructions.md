@@ -29,13 +29,28 @@ Segment 2: Assembly
 4. From the drawers at LPL (by the tables) collect the following: 4 bolts, 4 bolt screws (thin enough to pass through the pillars), 3 screws/pins (from 'Allen bolts, keys and pins' that fit through the gears and are long enough to go all the way through
 5. In the map Documents -> Images you can find 5 images that'll help you. Open the box you see in
  <div style="display: flex; justify-content: space-between;">
-  <img src="Documents/Images/IMG_5685.jpeg" alt="lpl sharing" style="width: 30%;"/>
+  <img src="/Documents/Images/IMG_5685.jpeg" alt="lpl sharing" style="width: 30%;"/>
   <figcaption>Figure: LPL shop front with current and future letters<figcaption>
 </div> 
-   (M1 tot en met M2,4). Ignore the lime box you see in Imggeneral.jpg and pick 2 screws out of the pink box you see in the image. 
+   (M1 tot en met M2,4). Ignore the lime box you see <div style="display: flex; justify-content: space-between;">
+  <img src="Documents/Images/Imggeneral.jpg" alt="lpl sharing" style="width: 30%;"/>
+  <figcaption>Figure: LPL shop front with current and future letters<figcaption>
+</div>   and pick 2 screws out of the pink box you see in the image. 
    These 2 screws let you attach the motor to your baseplate. 
-6. Next, open the 'M4' drawer and grab 5 spacers you see in the image M4IMG.jpg surrounded by blue. You will need them to space out the cogs. 
-7. Now use all the materials to build the gearbox. In the photos Endresult you can see how we build the gearbox. The most important thing to see in the images is the order you place the gears in. The height of the small part of the 3 similar cogs should be the smallest for the fourth gear (seen from the motor).   There is 1 spacer between the base plate (motor side) and the 2nd gear (2nd from the motor side), 2 spacers between the base plat and the 3rd cog. 1 between the 2nd and 4th cog and 1 between the 3rd and 5th cog. We use the bolts to
+6. Next, open the 'M4' drawer and grab 5 spacers you see in the image </div> 
+   (M1 tot en met M2,4). Ignore the lime box you see <div style="display: flex; justify-content: space-between;">
+  <img src="Documents/Images/Imggeneral.jpg" alt="lpl sharing" style="width: 30%;"/>
+  <figcaption>Figure: LPL shop front with current and future letters<figcaption>
+</div>M4IMG.jpg surrounded by blue. You will need them to space out the cogs. 
+7. Now use all the materials to build the gearbox. In the photos </div> 
+   (M1 tot en met M2,4). Ignore the lime box you see <div style="display: flex; justify-content: space-between;">
+  <img src="Documents/Images/Imggeneral.jpg" alt="lpl sharing" style="width: 30%;"/>
+  <figcaption>Figure: LPL shop front with current and future letters<figcaption>
+</div> </div> 
+   (M1 tot en met M2,4). Ignore the lime box you see <div style="display: flex; justify-content: space-between;">
+  <img src="Documents/Images/Imggeneral.jpg" alt="lpl sharing" style="width: 30%;"/>
+  <figcaption>Figure: LPL shop front with current and future letters<figcaption>
+</div> you can see how we build the gearbox. The most important thing to see in the images is the order you place the gears in. The height of the small part of the 3 similar cogs should be the smallest for the fourth gear (seen from the motor).   There is 1 spacer between the base plate (motor side) and the 2nd gear (2nd from the motor side), 2 spacers between the base plat and the 3rd cog. 1 between the 2nd and 4th cog and 1 between the 3rd and 5th cog. We use the bolts to
    attach the pillars to both plates. We also used some tape to make sure the gears wouldnt get loose. 
 8. Now test your built gearbox. The arduino code is in 'Software'. 
 
