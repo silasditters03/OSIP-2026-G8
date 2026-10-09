@@ -77,7 +77,7 @@ Now pick 2 screws out of the pink box you see in the second image. These 2 screw
   <figcaption><figcaption>
 </figure>
 
-4. There should be an already assembled Arduino mounted on a protoboard. Coming out of the board there is a magnet sensor, tape it to the table, underneath the rotating platform. The arduino [code](../Software/tachometer.ino) for measuring the speed is in 'Software'. There are magnets every 1/4th of circunference on the rotating platform, which the sensor detects and the code translates into rpms.
+4. There should be an already assembled Arduino mounted on a protoboard. Coming out of the board there is a magnet sensor, tape it to the table, underneath the rotating platform. The arduino [code](../Software/tachometer.ino) for measuring the speed is in 'Software'. There are magnets every 1/4th of circumference on the rotating platform, which the sensor detects and the code translates into rpms.
 
 <figure style="display: flex; justify-content: space-between;">
   <img src="/Documents/Images/sensor.jpeg" alt="lpl sharing" style="width: 30%;"/>
