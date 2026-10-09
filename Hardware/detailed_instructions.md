@@ -1,9 +1,9 @@
-This is the space for students of the course to produce their improved step-by-step instructions. 
+# Detailed instructions
 
-This document shows the detailed step-by-step instruction for building the gearbox. 
-It is split up into two segments. Segment 1: 3D-Printing and Segment 2: Assembly.
+This document shows the detailed step-by-step instruction for building and testing the gearbox. 
+It is split up into three segments. Segment 1: 3D-Printing, Segment 2: Assembly and Segment 3: Testing
 
-Segment 1: 3D-Printing
+## Segment 1: 3D-Printing
 1. Load the correct fillament in the printer. For this project we recommend PLA as a fillament.
 2. When the printer is ready to print, head over the the PC in LPL and open PrusaSlicer.
 3. The .step files that need to be sliced can be found in the Hardware folder
@@ -22,7 +22,7 @@ NOTE: If you are printing at temperatures above 170 °C, the nozzle will first c
         printing temperature, so do not panic!
 
 
-Segment 2: Assembly
+## Segment 2: Assembly
 1. Collect all printed parts, you should have: A housing top plate, housing bottom plate, 4 housing pillars, 1 driving gear, 1 enganging hear, 3 24-tooth gears of different heights.
 2. Get a motor from the storage in the workshop. Open the drawer which says Electronic components 4 and actuators and grab a 6 Volt motor (to the left). 
 3. Leave the protolab and go the storage unit in the middle of the workplace and open the 'ball bearings' drawer and grab 1 bearing which is in a plastic casing called 'IBB  688-2RS NI25J'. This should fit perfectly in the topplate you printed. 
@@ -60,7 +60,19 @@ Now pick 2 screws out of the pink box you see in the second image. These 2 screw
   <figcaption><figcaption>
 </figure> 
 
-8. Now test your built gearbox. The arduino code for measuring the speed is in 'Software'. 
+## Segment 3: Testing
+
+1. To measure the rotational output of the now motorized gearbox, we need to transfer its torque to the rotating platform. To do so follow this steps:
+2. Attach a rubber wheel to the output. Insert a plastic tube (we don't know what it is, maybe a section of cable covering) inside the wheel to make the output fit tightly. This was not enough for our model so covering the output shaft with tape is encouraged to increase its thickness.
+
+ADD RUBBERWHEEL IMG
+
+3. Then, use a clamp and one of the casings in the protolab to fix the motor to the table. Put the rotating platform in contact with the rubber wheel. In the image the system is in motion already but you get the idea of the placements.
+
+ADD SETUP IMG
+
+4. There should be an already assembled Arduino mounted on a protoboard. Coming out of the board there is a magnet sensor, tape it to the table, underneath the rotating platform. The arduino [code](Software/tachometer.ino) for measuring the speed is in 'Software'. There are magnets every 1/4th of circunference on the rotating platform, which the sensor detects and the code translates into rpms.
+5. Lastly, plug the motor into a DC power supply. Our results for different volts and amperages can be found in [Results](\Results). Don't fry the motor or break the shaft! (Last one happened to us, luckily is just a 13min print).
 
 Good luck!
 
