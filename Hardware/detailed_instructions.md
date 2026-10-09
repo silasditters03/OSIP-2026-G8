@@ -65,14 +65,26 @@ Now pick 2 screws out of the pink box you see in the second image. These 2 screw
 1. To measure the rotational output of the now motorized gearbox, we need to transfer its torque to the rotating platform. To do so follow this steps:
 2. Attach a rubber wheel to the output. Insert a plastic tube (we don't know what it is, maybe a section of cable covering) inside the wheel to make the output fit tightly. This was not enough for our model so covering the output shaft with tape is encouraged to increase its thickness.
 
-ADD RUBBERWHEEL IMG
+<figure style="display: flex; justify-content: space-between;">
+  <img src="/Documents/Images/rubberwheel.jpeg" alt="lpl sharing" style="width: 30%;"/>
+  <figcaption><figcaption>
+</figure>
 
-3. Then, use a clamp and one of the casings in the protolab to fix the motor to the table. Put the rotating platform in contact with the rubber wheel. In the image the system is in motion already but you get the idea of the placements.
+3. Then, use a clamp and one of the casings (some are broken, some are too loose and other too tight) in the protolab to fix the motor to the table. We chose a somewhat loose casing and added padding with a folded sheet of paper. Put the rotating platform in contact with the rubber wheel. In the image the system is in motion already but you get the idea of the placements.
 
-ADD SETUP IMG
+<figure style="display: flex; justify-content: space-between;">
+  <img src="/Documents/Images/testingsetup.jpeg" alt="lpl sharing" style="width: 30%;"/>
+  <figcaption><figcaption>
+</figure>
 
-4. There should be an already assembled Arduino mounted on a protoboard. Coming out of the board there is a magnet sensor, tape it to the table, underneath the rotating platform. The arduino [code](Software/tachometer.ino) for measuring the speed is in 'Software'. There are magnets every 1/4th of circunference on the rotating platform, which the sensor detects and the code translates into rpms.
-5. Lastly, plug the motor into a DC power supply. Our results for different volts and amperages can be found in [Results](\Results). Don't fry the motor or break the shaft! (Last one happened to us, luckily is just a 13min print).
+4. There should be an already assembled Arduino mounted on a protoboard. Coming out of the board there is a magnet sensor, tape it to the table, underneath the rotating platform. The arduino [code](../Software/tachometer.ino) for measuring the speed is in 'Software'. There are magnets every 1/4th of circunference on the rotating platform, which the sensor detects and the code translates into rpms.
+
+<figure style="display: flex; justify-content: space-between;">
+  <img src="/Documents/Images/sensor.jpeg" alt="lpl sharing" style="width: 30%;"/>
+  <figcaption><figcaption>
+</figure>
+
+5. Lastly, plug the motor into a DC power supply. Our results for different volts and amperages can be found in [Results](../Results/sensor_readings.txt). Don't fry the motor or break the shaft! (Last one happened to us, luckily is just a 13min print).
 
 Good luck!
 
