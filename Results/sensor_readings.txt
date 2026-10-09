@@ -1,0 +1,572 @@
+Set Power to 1.15 V, 1.30 A
+
+13:16:21.412 -> RPM: 8
+13:16:22.838 -> Signal detected at timestamp: 629984ms
+13:16:24.761 -> Signal detected at timestamp: 631878ms
+13:16:26.254 -> Signal detected at timestamp: 633370ms
+13:16:28.275 -> Signal detected at timestamp: 635381ms
+13:16:29.701 -> Signal detected at timestamp: 636771ms
+13:16:31.591 -> Signal detected at timestamp: 638650ms
+13:16:33.116 -> Signal detected at timestamp: 640166ms
+13:16:35.105 -> Signal detected at timestamp: 642161ms
+13:16:36.563 -> Signal detected at timestamp: 643591ms
+13:16:38.418 -> Signal detected at timestamp: 645440ms
+13:16:38.451 -> RPM: 8
+13:16:39.976 -> Signal detected at timestamp: 646973ms
+13:16:41.963 -> Signal detected at timestamp: 648958ms
+13:16:43.322 -> Signal detected at timestamp: 650311ms
+13:16:45.111 -> Signal detected at timestamp: 652087ms
+13:16:46.800 -> Signal detected at timestamp: 653761ms
+13:16:48.789 -> Signal detected at timestamp: 655735ms
+13:16:50.149 -> Signal detected at timestamp: 657096ms
+13:16:51.938 -> Signal detected at timestamp: 658864ms
+13:16:53.529 -> Signal detected at timestamp: 660456ms
+13:16:55.617 -> Signal detected at timestamp: 662520ms
+13:16:55.650 -> RPM: 8
+13:16:56.976 -> Signal detected at timestamp: 663855ms
+13:16:58.767 -> Signal detected at timestamp: 665632ms
+13:17:00.391 -> Signal detected at timestamp: 667264ms
+13:17:02.413 -> Signal detected at timestamp: 669260ms
+13:17:03.771 -> Signal detected at timestamp: 670613ms
+13:17:05.560 -> Signal detected at timestamp: 672393ms
+13:17:07.151 -> Signal detected at timestamp: 673954ms
+13:17:09.173 -> Signal detected at timestamp: 675961ms
+13:17:10.498 -> Signal detected at timestamp: 677302ms
+13:17:12.322 -> Signal detected at timestamp: 679090ms
+13:17:12.322 -> RPM: 9
+13:17:13.979 -> Signal detected at timestamp: 680737ms
+13:17:16.002 -> Signal detected at timestamp: 682747ms
+13:17:17.328 -> Signal detected at timestamp: 684091ms
+13:17:19.118 -> Signal detected at timestamp: 685863ms
+13:17:20.743 -> Signal detected at timestamp: 687454ms
+13:17:22.798 -> Signal detected at timestamp: 689503ms
+13:17:24.158 -> Signal detected at timestamp: 690860ms
+13:17:25.947 -> Signal detected at timestamp: 692649ms
+13:17:27.571 -> Signal detected at timestamp: 694262ms
+13:17:29.659 -> Signal detected at timestamp: 696306ms
+13:17:29.659 -> RPM: 8
+13:17:31.018 -> Signal detected at timestamp: 697667ms
+13:17:32.809 -> Signal detected at timestamp: 699449ms
+13:17:34.399 -> Signal detected at timestamp: 701032ms
+13:17:36.487 -> Signal detected at timestamp: 703085ms
+13:17:37.814 -> Signal detected at timestamp: 704424ms
+13:17:39.607 -> Signal detected at timestamp: 706211ms
+13:17:41.297 -> Signal detected at timestamp: 707874ms
+13:17:43.351 -> Signal detected at timestamp: 709923ms
+13:17:44.710 -> Signal detected at timestamp: 711262ms
+13:17:46.466 -> Signal detected at timestamp: 713025ms
+13:17:46.499 -> RPM: 8
+13:17:48.123 -> Signal detected at timestamp: 714650ms
+13:17:50.211 -> Signal detected at timestamp: 716735ms
+13:17:51.570 -> Signal detected at timestamp: 718088ms
+13:17:53.393 -> Signal detected at timestamp: 719881ms
+13:17:55.016 -> Signal detected at timestamp: 721514ms
+13:17:57.137 -> Signal detected at timestamp: 723601ms
+13:17:58.496 -> Signal detected at timestamp: 724944ms
+13:18:00.284 -> Signal detected at timestamp: 726718ms
+13:18:01.974 -> Signal detected at timestamp: 728394ms
+13:18:04.096 -> Signal detected at timestamp: 730520ms
+13:18:04.129 -> RPM: 8
+13:18:05.454 -> Signal detected at timestamp: 731878ms
+13:18:07.275 -> Signal detected at timestamp: 733671ms
+13:18:08.965 -> Signal detected at timestamp: 735353ms
+13:18:11.120 -> Signal detected at timestamp: 737485ms
+13:18:12.512 -> Signal detected at timestamp: 738867ms
+13:18:14.335 -> Signal detected at timestamp: 740678ms
+13:18:16.025 -> Signal detected at timestamp: 742348ms
+13:18:18.146 -> Signal detected at timestamp: 744481ms
+13:18:19.537 -> Signal detected at timestamp: 745849ms
+13:18:21.359 -> Signal detected at timestamp: 747658ms
+13:18:21.393 -> RPM: 8
+13:18:23.017 -> Signal detected at timestamp: 749293ms
+13:18:25.138 -> Signal detected at timestamp: 751426ms
+13:18:26.563 -> Signal detected at timestamp: 752811ms
+13:18:28.387 -> Signal detected at timestamp: 754624ms
+13:18:30.077 -> Signal detected at timestamp: 756308ms
+13:18:32.266 -> Signal detected at timestamp: 758484ms
+13:18:33.625 -> Signal detected at timestamp: 759851ms
+13:18:35.447 -> Signal detected at timestamp: 761655ms
+13:18:37.205 -> Signal detected at timestamp: 763399ms
+13:18:39.458 -> Signal detected at timestamp: 765624ms
+13:18:39.458 -> RPM: 8
+13:18:40.850 -> Signal detected at timestamp: 767002ms
+13:18:42.640 -> Signal detected at timestamp: 768797ms
+13:18:44.496 -> Signal detected at timestamp: 770640ms
+
+------------------------------------------------------
+Set Power to 4.60 V 0.71 A
+
+14:38:57.097 -> Signal detected at timestamp: 1325658ms
+14:38:57.428 -> Signal detected at timestamp: 1325976ms
+14:38:57.661 -> Signal detected at timestamp: 1326227ms
+14:38:57.992 -> Signal detected at timestamp: 1326547ms
+14:38:58.224 -> Signal detected at timestamp: 1326792ms
+14:38:58.556 -> Signal detected at timestamp: 1327111ms
+14:38:58.821 -> Signal detected at timestamp: 1327373ms
+14:38:59.153 -> Signal detected at timestamp: 1327705ms
+14:38:59.418 -> Signal detected at timestamp: 1327954ms
+14:38:59.716 -> Signal detected at timestamp: 1328271ms
+14:38:59.749 -> RPM: 52
+14:38:59.981 -> Signal detected at timestamp: 1328528ms
+14:39:00.313 -> Signal detected at timestamp: 1328859ms
+14:39:00.578 -> Signal detected at timestamp: 1329123ms
+14:39:00.910 -> Signal detected at timestamp: 1329446ms
+14:39:01.175 -> Signal detected at timestamp: 1329702ms
+14:39:01.507 -> Signal detected at timestamp: 1330025ms
+14:39:01.739 -> Signal detected at timestamp: 1330271ms
+14:39:02.070 -> Signal detected at timestamp: 1330585ms
+14:39:02.302 -> Signal detected at timestamp: 1330843ms
+14:39:02.634 -> Signal detected at timestamp: 1331174ms
+14:39:02.667 -> RPM: 51
+14:39:02.899 -> Signal detected at timestamp: 1331425ms
+14:39:03.231 -> Signal detected at timestamp: 1331745ms
+14:39:03.496 -> Signal detected at timestamp: 1332004ms
+14:39:03.828 -> Signal detected at timestamp: 1332335ms
+14:39:04.093 -> Signal detected at timestamp: 1332592ms
+14:39:04.391 -> Signal detected at timestamp: 1332915ms
+14:39:04.656 -> Signal detected at timestamp: 1333173ms
+14:39:04.988 -> Signal detected at timestamp: 1333500ms
+14:39:05.253 -> Signal detected at timestamp: 1333747ms
+14:39:05.552 -> Signal detected at timestamp: 1334064ms
+14:39:05.585 -> RPM: 51
+14:39:05.817 -> Signal detected at timestamp: 1334321ms
+14:39:06.149 -> Signal detected at timestamp: 1334647ms
+14:39:06.381 -> Signal detected at timestamp: 1334893ms
+14:39:06.712 -> Signal detected at timestamp: 1335207ms
+14:39:06.977 -> Signal detected at timestamp: 1335468ms
+14:39:07.308 -> Signal detected at timestamp: 1335799ms
+14:39:07.574 -> Signal detected at timestamp: 1336047ms
+14:39:07.872 -> Signal detected at timestamp: 1336358ms
+14:39:08.137 -> Signal detected at timestamp: 1336612ms
+14:39:08.468 -> Signal detected at timestamp: 1336937ms
+14:39:08.468 -> RPM: 52
+14:39:08.701 -> Signal detected at timestamp: 1337183ms
+14:39:08.999 -> Signal detected at timestamp: 1337494ms
+14:39:09.264 -> Signal detected at timestamp: 1337750ms
+14:39:09.596 -> Signal detected at timestamp: 1338078ms
+14:39:09.861 -> Signal detected at timestamp: 1338324ms
+14:39:10.160 -> Signal detected at timestamp: 1338637ms
+14:39:10.425 -> Signal detected at timestamp: 1338896ms
+14:39:10.757 -> Signal detected at timestamp: 1339227ms
+14:39:11.022 -> Signal detected at timestamp: 1339476ms
+14:39:11.320 -> Signal detected at timestamp: 1339788ms
+14:39:11.354 -> RPM: 52
+14:39:11.586 -> Signal detected at timestamp: 1340043ms
+14:39:11.917 -> Signal detected at timestamp: 1340369ms
+14:39:12.149 -> Signal detected at timestamp: 1340616ms
+14:39:12.481 -> Signal detected at timestamp: 1340928ms
+14:39:12.746 -> Signal detected at timestamp: 1341184ms
+14:39:13.077 -> Signal detected at timestamp: 1341511ms
+14:39:13.309 -> Signal detected at timestamp: 1341758ms
+14:39:13.608 -> Signal detected at timestamp: 1342067ms
+14:39:13.873 -> Signal detected at timestamp: 1342323ms
+14:39:14.204 -> Signal detected at timestamp: 1342651ms
+14:39:14.237 -> RPM: 52
+14:39:14.469 -> Signal detected at timestamp: 1342898ms
+14:39:14.768 -> Signal detected at timestamp: 1343212ms
+14:39:15.033 -> Signal detected at timestamp: 1343470ms
+14:39:15.364 -> Signal detected at timestamp: 1343799ms
+14:39:15.629 -> Signal detected at timestamp: 1344047ms
+14:39:15.928 -> Signal detected at timestamp: 1344356ms
+14:39:16.193 -> Signal detected at timestamp: 1344610ms
+14:39:16.525 -> Signal detected at timestamp: 1344935ms
+14:39:16.757 -> Signal detected at timestamp: 1345180ms
+14:39:17.055 -> Signal detected at timestamp: 1345491ms
+14:39:17.088 -> RPM: 52
+14:39:17.320 -> Signal detected at timestamp: 1345748ms
+14:39:17.652 -> Signal detected at timestamp: 1346078ms
+14:39:17.917 -> Signal detected at timestamp: 1346325ms
+14:39:18.216 -> Signal detected at timestamp: 1346635ms
+14:39:18.481 -> Signal detected at timestamp: 1346888ms
+14:39:18.812 -> Signal detected at timestamp: 1347214ms
+14:39:19.045 -> Signal detected at timestamp: 1347460ms
+14:39:19.376 -> Signal detected at timestamp: 1347769ms
+14:39:19.608 -> Signal detected at timestamp: 1348025ms
+14:39:19.939 -> Signal detected at timestamp: 1348352ms
+14:39:19.972 -> RPM: 52
+14:39:20.205 -> Signal detected at timestamp: 1348596ms
+14:39:20.503 -> Signal detected at timestamp: 1348904ms
+14:39:20.768 -> Signal detected at timestamp: 1349154ms
+14:39:21.066 -> Signal detected at timestamp: 1349476ms
+14:39:21.332 -> Signal detected at timestamp: 1349721ms
+14:39:21.630 -> Signal detected at timestamp: 1350028ms
+14:39:21.895 -> Signal detected at timestamp: 1350279ms
+14:39:22.227 -> Signal detected at timestamp: 1350602ms
+14:39:22.459 -> Signal detected at timestamp: 1350847ms
+14:39:22.757 -> Signal detected at timestamp: 1351153ms
+14:39:22.790 -> RPM: 53
+14:39:23.022 -> Signal detected at timestamp: 1351404ms
+14:39:23.353 -> Signal detected at timestamp: 1351728ms
+14:39:23.586 -> Signal detected at timestamp: 1351972ms
+14:39:23.917 -> Signal detected at timestamp: 1352281ms
+14:39:24.149 -> Signal detected at timestamp: 1352534ms
+14:39:24.481 -> Signal detected at timestamp: 1352859ms
+14:39:24.746 -> Signal detected at timestamp: 1353104ms
+14:39:25.044 -> Signal detected at timestamp: 1353412ms
+14:39:25.309 -> Signal detected at timestamp: 1353667ms
+14:39:25.640 -> Signal detected at timestamp: 1353995ms
+14:39:25.640 -> RPM: 52
+14:39:25.872 -> Signal detected at timestamp: 1354241ms
+14:39:26.204 -> Signal detected at timestamp: 1354550ms
+14:39:26.436 -> Signal detected at timestamp: 1354807ms
+14:39:26.768 -> Signal detected at timestamp: 1355133ms
+14:39:27.033 -> Signal detected at timestamp: 1355379ms
+14:39:27.331 -> Signal detected at timestamp: 1355689ms
+14:39:27.597 -> Signal detected at timestamp: 1355945ms
+14:39:27.928 -> Signal detected at timestamp: 1356274ms
+14:39:28.160 -> Signal detected at timestamp: 1356520ms
+14:39:28.492 -> Signal detected at timestamp: 1356829ms
+14:39:28.492 -> RPM: 52
+14:39:28.757 -> Signal detected at timestamp: 1357084ms
+14:39:29.089 -> Signal detected at timestamp: 1357411ms
+14:39:29.321 -> Signal detected at timestamp: 1357657ms
+14:39:29.619 -> Signal detected at timestamp: 1357968ms
+14:39:29.885 -> Signal detected at timestamp: 1358226ms
+14:39:30.216 -> Signal detected at timestamp: 1358555ms
+14:39:30.481 -> Signal detected at timestamp: 1358801ms
+14:39:30.780 -> Signal detected at timestamp: 1359111ms
+14:39:31.045 -> Signal detected at timestamp: 1359365ms
+14:39:31.376 -> Signal detected at timestamp: 1359691ms
+14:39:31.376 -> RPM: 52
+14:39:31.608 -> Signal detected at timestamp: 1359937ms
+14:39:31.939 -> Signal detected at timestamp: 1360247ms
+14:39:32.172 -> Signal detected at timestamp: 1360503ms
+14:39:32.503 -> Signal detected at timestamp: 1360830ms
+14:39:32.768 -> Signal detected at timestamp: 1361077ms
+14:39:33.067 -> Signal detected at timestamp: 1361387ms
+14:39:33.332 -> Signal detected at timestamp: 1361643ms
+14:39:33.663 -> Signal detected at timestamp: 1361971ms
+14:39:33.928 -> Signal detected at timestamp: 1362216ms
+14:39:34.227 -> Signal detected at timestamp: 1362529ms
+14:39:34.260 -> RPM: 52
+14:39:34.492 -> Signal detected at timestamp: 1362782ms
+14:39:34.824 -> Signal detected at timestamp: 1363110ms
+14:39:35.089 -> Signal detected at timestamp: 1363371ms
+14:39:35.387 -> Signal detected at timestamp: 1363691ms
+14:39:35.652 -> Signal detected at timestamp: 1363943ms
+14:39:35.983 -> Signal detected at timestamp: 1364264ms
+14:39:36.215 -> Signal detected at timestamp: 1364508ms
+14:39:36.547 -> Signal detected at timestamp: 1364819ms
+14:39:36.812 -> Signal detected at timestamp: 1365079ms
+14:39:37.143 -> Signal detected at timestamp: 1365408ms
+14:39:37.143 -> RPM: 52
+14:39:37.375 -> Signal detected at timestamp: 1365656ms
+14:39:37.707 -> Signal detected at timestamp: 1365968ms
+14:39:37.939 -> Signal detected at timestamp: 1366227ms
+14:39:38.270 -> Signal detected at timestamp: 1366556ms
+14:39:38.536 -> Signal detected at timestamp: 1366803ms
+14:39:38.834 -> Signal detected at timestamp: 1367115ms
+14:39:39.099 -> Signal detected at timestamp: 1367371ms
+14:39:39.430 -> Signal detected at timestamp: 1367700ms
+14:39:39.696 -> Signal detected at timestamp: 1367947ms
+14:39:39.994 -> Signal detected at timestamp: 1368260ms
+14:39:40.027 -> RPM: 52
+14:39:40.259 -> Signal detected at timestamp: 1368516ms
+14:39:40.591 -> Signal detected at timestamp: 1368844ms
+14:39:40.823 -> Signal detected at timestamp: 1369091ms
+14:39:41.154 -> Signal detected at timestamp: 1369399ms
+14:39:41.386 -> Signal detected at timestamp: 1369649ms
+14:39:41.717 -> Signal detected at timestamp: 1369971ms
+14:39:41.982 -> Signal detected at timestamp: 1370216ms
+14:39:42.281 -> Signal detected at timestamp: 1370526ms
+14:39:42.546 -> Signal detected at timestamp: 1370782ms
+14:39:42.877 -> Signal detected at timestamp: 1371107ms
+14:39:42.877 -> RPM: 52
+14:39:43.110 -> Signal detected at timestamp: 1371353ms
+14:39:43.441 -> Signal detected at timestamp: 1371663ms
+14:39:43.673 -> Signal detected at timestamp: 1371917ms
+14:39:44.004 -> Signal detected at timestamp: 1372242ms
+14:39:44.269 -> Signal detected at timestamp: 1372489ms
+14:39:44.568 -> Signal detected at timestamp: 1372800ms
+14:39:44.833 -> Signal detected at timestamp: 1373057ms
+14:39:45.164 -> Signal detected at timestamp: 1373382ms
+14:39:45.396 -> Signal detected at timestamp: 1373628ms
+14:39:45.728 -> Signal detected at timestamp: 1373936ms
+14:39:45.728 -> RPM: 53
+14:39:45.960 -> Signal detected at timestamp: 1374189ms
+14:39:46.291 -> Signal detected at timestamp: 1374514ms
+14:39:46.557 -> Signal detected at timestamp: 1374757ms
+14:39:46.855 -> Signal detected at timestamp: 1375063ms
+14:39:47.087 -> Signal detected at timestamp: 1375305ms
+14:39:47.418 -> Signal detected at timestamp: 1375620ms
+14:39:47.650 -> Signal detected at timestamp: 1375862ms
+14:39:47.949 -> Signal detected at timestamp: 1376165ms
+14:39:48.214 -> Signal detected at timestamp: 1376410ms
+14:39:48.512 -> Signal detected at timestamp: 1376727ms
+14:39:48.545 -> RPM: 53
+14:39:48.778 -> Signal detected at timestamp: 1376968ms
+14:39:49.076 -> Signal detected at timestamp: 1377276ms
+14:39:49.341 -> Signal detected at timestamp: 1377530ms
+14:39:49.672 -> Signal detected at timestamp: 1377856ms
+14:39:49.904 -> Signal detected at timestamp: 1378101ms
+14:39:50.235 -> Signal detected at timestamp: 1378410ms
+14:39:50.468 -> Signal detected at timestamp: 1378665ms
+14:39:50.799 -> Signal detected at timestamp: 1378992ms
+14:39:51.064 -> Signal detected at timestamp: 1379237ms
+14:39:51.363 -> Signal detected at timestamp: 1379550ms
+14:39:51.396 -> RPM: 53
+14:39:51.628 -> Signal detected at timestamp: 1379806ms
+14:39:51.960 -> Signal detected at timestamp: 1380132ms
+14:39:52.192 -> Signal detected at timestamp: 1380377ms
+14:39:52.524 -> Signal detected at timestamp: 1380688ms
+14:39:52.789 -> Signal detected at timestamp: 1380946ms
+14:39:53.121 -> Signal detected at timestamp: 1381276ms
+14:39:53.353 -> Signal detected at timestamp: 1381523ms
+14:39:53.684 -> Signal detected at timestamp: 1381835ms
+14:39:53.916 -> Signal detected at timestamp: 1382092ms
+14:39:54.248 -> Signal detected at timestamp: 1382419ms
+14:39:54.281 -> RPM: 52
+14:39:54.513 -> Signal detected at timestamp: 1382664ms
+14:39:54.812 -> Signal detected at timestamp: 1382975ms
+14:39:55.077 -> Signal detected at timestamp: 1383231ms
+14:39:55.408 -> Signal detected at timestamp: 1383559ms
+14:39:55.640 -> Signal detected at timestamp: 1383805ms
+14:39:55.972 -> Signal detected at timestamp: 1384115ms
+14:39:56.204 -> Signal detected at timestamp: 1384368ms
+14:39:56.535 -> Signal detected at timestamp: 1384691ms
+14:39:56.801 -> Signal detected at timestamp: 1384937ms
+14:39:57.099 -> Signal detected at timestamp: 1385243ms
+14:39:57.132 -> RPM: 53
+14:39:57.364 -> Signal detected at timestamp: 1385492ms
+14:39:57.663 -> Signal detected at timestamp: 1385815ms
+14:39:57.928 -> Signal detected at timestamp: 1386060ms
+14:39:58.226 -> Signal detected at timestamp: 1386371ms
+14:39:58.491 -> Signal detected at timestamp: 1386628ms
+14:39:58.823 -> Signal detected at timestamp: 1386956ms
+14:39:59.088 -> Signal detected at timestamp: 1387202ms
+14:39:59.386 -> Signal detected at timestamp: 1387514ms
+14:39:59.651 -> Signal detected at timestamp: 1387772ms
+14:39:59.982 -> Signal detected at timestamp: 1388102ms
+14:40:00.016 -> RPM: 52
+14:40:00.214 -> Signal detected at timestamp: 1388348ms
+14:40:00.546 -> Signal detected at timestamp: 1388660ms
+14:40:00.811 -> Signal detected at timestamp: 1388918ms
+14:40:01.143 -> Signal detected at timestamp: 1389247ms
+14:40:01.375 -> Signal detected at timestamp: 1389492ms
+14:40:01.707 -> Signal detected at timestamp: 1389801ms
+14:40:01.939 -> Signal detected at timestamp: 1390051ms
+14:40:02.271 -> Signal detected at timestamp: 1390372ms
+14:40:02.503 -> Signal detected at timestamp: 1390616ms
+14:40:02.834 -> Signal detected at timestamp: 1390926ms
+14:40:02.834 -> RPM: 53
+14:40:03.099 -> Signal detected at timestamp: 1391181ms
+14:40:03.397 -> Signal detected at timestamp: 1391508ms
+14:40:03.663 -> Signal detected at timestamp: 1391755ms
+14:40:03.961 -> Signal detected at timestamp: 1392069ms
+14:40:04.227 -> Signal detected at timestamp: 1392322ms
+14:40:04.558 -> Signal detected at timestamp: 1392642ms
+14:40:04.790 -> Signal detected at timestamp: 1392885ms
+14:40:05.122 -> Signal detected at timestamp: 1393196ms
+14:40:05.354 -> Signal detected at timestamp: 1393453ms
+14:40:05.685 -> Signal detected at timestamp: 1393778ms
+14:40:05.718 -> RPM: 52
+14:40:05.950 -> Signal detected at timestamp: 1394024ms
+14:40:06.249 -> Signal detected at timestamp: 1394336ms
+14:40:06.514 -> Signal detected at timestamp: 1394596ms
+14:40:06.846 -> Signal detected at timestamp: 1394926ms
+14:40:07.111 -> Signal detected at timestamp: 1395173ms
+14:40:07.410 -> Signal detected at timestamp: 1395487ms
+14:40:07.675 -> Signal detected at timestamp: 1395742ms
+14:40:08.007 -> Signal detected at timestamp: 1396067ms
+14:40:08.239 -> Signal detected at timestamp: 1396313ms
+14:40:08.571 -> Signal detected at timestamp: 1396625ms
+14:40:08.571 -> RPM: 52
+14:40:08.835 -> Signal detected at timestamp: 1396883ms
+14:40:09.167 -> Signal detected at timestamp: 1397215ms
+14:40:09.399 -> Signal detected at timestamp: 1397464ms
+14:40:09.731 -> Signal detected at timestamp: 1397777ms
+14:40:09.996 -> Signal detected at timestamp: 1398033ms
+14:40:10.327 -> Signal detected at timestamp: 1398363ms
+14:40:10.592 -> Signal detected at timestamp: 1398625ms
+14:40:10.891 -> Signal detected at timestamp: 1398951ms
+14:40:11.156 -> Signal detected at timestamp: 1399208ms
+14:40:11.487 -> Signal detected at timestamp: 1399537ms
+14:40:11.521 -> RPM: 51
+14:40:11.753 -> Signal detected at timestamp: 1399785ms
+14:40:12.051 -> Signal detected at timestamp: 1400101ms
+14:40:12.316 -> Signal detected at timestamp: 1400356ms
+14:40:12.650 -> Signal detected at timestamp: 1400678ms
+14:40:12.882 -> Signal detected at timestamp: 1400923ms
+14:40:13.213 -> Signal detected at timestamp: 1401232ms
+14:40:13.445 -> Signal detected at timestamp: 1401481ms
+14:40:13.777 -> Signal detected at timestamp: 1401801ms
+14:40:14.009 -> Signal detected at timestamp: 1402045ms
+14:40:14.340 -> Signal detected at timestamp: 1402357ms
+14:40:14.374 -> RPM: 53
+14:40:14.606 -> Signal detected at timestamp: 1402612ms
+14:40:14.937 -> Signal detected at timestamp: 1402937ms
+14:40:15.169 -> Signal detected at timestamp: 1403181ms
+14:40:15.467 -> Signal detected at timestamp: 1403489ms
+14:40:15.732 -> Signal detected at timestamp: 1403742ms
+14:40:16.064 -> Signal detected at timestamp: 1404063ms
+14:40:16.296 -> Signal detected at timestamp: 1404307ms
+14:40:16.628 -> Signal detected at timestamp: 1404623ms
+14:40:16.893 -> Signal detected at timestamp: 1404886ms
+14:40:17.224 -> Signal detected at timestamp: 1405215ms
+14:40:17.224 -> RPM: 52
+14:40:17.456 -> Signal detected at timestamp: 1405470ms
+14:40:17.788 -> Signal detected at timestamp: 1405787ms
+14:40:18.053 -> Signal detected at timestamp: 1406032ms
+14:40:18.351 -> Signal detected at timestamp: 1406348ms
+14:40:18.583 -> Signal detected at timestamp: 1406589ms
+14:40:18.915 -> Signal detected at timestamp: 1406897ms
+14:40:19.147 -> Signal detected at timestamp: 1407143ms
+14:40:19.479 -> Signal detected at timestamp: 1407459ms
+14:40:19.711 -> Signal detected at timestamp: 1407699ms
+14:40:20.009 -> Signal detected at timestamp: 1408003ms
+14:40:20.042 -> RPM: 53
+14:40:20.274 -> Signal detected at timestamp: 1408250ms
+14:40:20.606 -> Signal detected at timestamp: 1408568ms
+14:40:20.838 -> Signal detected at timestamp: 1408815ms
+14:40:21.137 -> Signal detected at timestamp: 1409122ms
+14:40:21.402 -> Signal detected at timestamp: 1409371ms
+14:40:21.734 -> Signal detected at timestamp: 1409691ms
+14:40:21.966 -> Signal detected at timestamp: 1409938ms
+14:40:22.264 -> Signal detected at timestamp: 1410242ms
+14:40:22.529 -> Signal detected at timestamp: 1410485ms
+14:40:22.828 -> Signal detected at timestamp: 1410798ms
+14:40:22.861 -> RPM: 53
+14:40:23.093 -> Signal detected at timestamp: 1411040ms
+14:40:23.391 -> Signal detected at timestamp: 1411347ms
+14:40:23.624 -> Signal detected at timestamp: 1411595ms
+14:40:23.955 -> Signal detected at timestamp: 1411911ms
+14:40:24.221 -> Signal detected at timestamp: 1412155ms
+14:40:24.519 -> Signal detected at timestamp: 1412459ms
+14:40:24.751 -> Signal detected at timestamp: 1412705ms
+14:40:25.083 -> Signal detected at timestamp: 1413019ms
+14:40:25.315 -> Signal detected at timestamp: 1413267ms
+14:40:25.646 -> Signal detected at timestamp: 1413575ms
+14:40:25.646 -> RPM: 54
+14:40:25.878 -> Signal detected at timestamp: 1413819ms
+14:40:26.210 -> Signal detected at timestamp: 1414132ms
+14:40:26.442 -> Signal detected at timestamp: 1414372ms
+14:40:26.740 -> Signal detected at timestamp: 1414673ms
+14:40:26.972 -> Signal detected at timestamp: 1414917ms
+14:40:27.304 -> Signal detected at timestamp: 1415228ms
+14:40:27.536 -> Signal detected at timestamp: 1415470ms
+14:40:27.834 -> Signal detected at timestamp: 1415775ms
+14:40:28.099 -> Signal detected at timestamp: 1416017ms
+14:40:28.397 -> Signal detected at timestamp: 1416332ms
+14:40:28.431 -> RPM: 54
+14:40:28.663 -> Signal detected at timestamp: 1416573ms
+14:40:28.961 -> Signal detected at timestamp: 1416877ms
+14:40:29.193 -> Signal detected at timestamp: 1417120ms
+14:40:29.524 -> Signal detected at timestamp: 1417434ms
+14:40:29.757 -> Signal detected at timestamp: 1417673ms
+14:40:30.055 -> Signal detected at timestamp: 1417979ms
+14:40:30.320 -> Signal detected at timestamp: 1418223ms
+14:40:30.619 -> Signal detected at timestamp: 1418540ms
+14:40:30.884 -> Signal detected at timestamp: 1418782ms
+14:40:31.183 -> Signal detected at timestamp: 1419087ms
+14:40:31.216 -> RPM: 54
+14:40:31.448 -> Signal detected at timestamp: 1419333ms
+14:40:31.747 -> Signal detected at timestamp: 1419652ms
+14:40:32.012 -> Signal detected at timestamp: 1419900ms
+14:40:32.310 -> Signal detected at timestamp: 1420209ms
+14:40:32.576 -> Signal detected at timestamp: 1420457ms
+14:40:32.874 -> Signal detected at timestamp: 1420775ms
+14:40:33.139 -> Signal detected at timestamp: 1421023ms
+14:40:33.437 -> Signal detected at timestamp: 1421331ms
+14:40:33.702 -> Signal detected at timestamp: 1421576ms
+14:40:34.000 -> Signal detected at timestamp: 1421891ms
+14:40:34.033 -> RPM: 53
+14:40:34.265 -> Signal detected at timestamp: 1422133ms
+14:40:34.564 -> Signal detected at timestamp: 1422437ms
+14:40:34.795 -> Signal detected at timestamp: 1422683ms
+14:40:35.127 -> Signal detected at timestamp: 1422997ms
+14:40:35.359 -> Signal detected at timestamp: 1423239ms
+14:40:35.690 -> Signal detected at timestamp: 1423546ms
+14:40:35.922 -> Signal detected at timestamp: 1423792ms
+14:40:36.254 -> Signal detected at timestamp: 1424108ms
+14:40:36.486 -> Signal detected at timestamp: 1424350ms
+14:40:36.784 -> Signal detected at timestamp: 1424655ms
+14:40:36.817 -> RPM: 54
+14:40:37.049 -> Signal detected at timestamp: 1424901ms
+14:40:37.347 -> Signal detected at timestamp: 1425218ms
+14:40:37.612 -> Signal detected at timestamp: 1425463ms
+14:40:37.910 -> Signal detected at timestamp: 1425769ms
+14:40:38.176 -> Signal detected at timestamp: 1426016ms
+14:40:38.474 -> Signal detected at timestamp: 1426332ms
+14:40:38.739 -> Signal detected at timestamp: 1426578ms
+14:40:39.037 -> Signal detected at timestamp: 1426885ms
+14:40:39.302 -> Signal detected at timestamp: 1427131ms
+14:40:39.600 -> Signal detected at timestamp: 1427444ms
+14:40:39.634 -> RPM: 53
+14:40:39.833 -> Signal detected at timestamp: 1427689ms
+14:40:40.164 -> Signal detected at timestamp: 1427995ms
+14:40:40.396 -> Signal detected at timestamp: 1428239ms
+14:40:40.728 -> Signal detected at timestamp: 1428552ms
+14:40:40.960 -> Signal detected at timestamp: 1428794ms
+14:40:41.259 -> Signal detected at timestamp: 1429100ms
+14:40:41.524 -> Signal detected at timestamp: 1429346ms
+14:40:41.822 -> Signal detected at timestamp: 1429661ms
+14:40:42.087 -> Signal detected at timestamp: 1429904ms
+14:40:42.385 -> Signal detected at timestamp: 1430211ms
+14:40:42.418 -> RPM: 54
+14:40:42.651 -> Signal detected at timestamp: 1430457ms
+14:40:42.949 -> Signal detected at timestamp: 1430771ms
+14:40:43.181 -> Signal detected at timestamp: 1431013ms
+14:40:43.513 -> Signal detected at timestamp: 1431318ms
+14:40:43.745 -> Signal detected at timestamp: 1431563ms
+14:40:44.076 -> Signal detected at timestamp: 1431876ms
+14:40:44.308 -> Signal detected at timestamp: 1432117ms
+14:40:44.606 -> Signal detected at timestamp: 1432421ms
+14:40:44.872 -> Signal detected at timestamp: 1432665ms
+14:40:45.170 -> Signal detected at timestamp: 1432978ms
+14:40:45.203 -> RPM: 54
+14:40:45.402 -> Signal detected at timestamp: 1433220ms
+14:40:45.734 -> Signal detected at timestamp: 1433526ms
+14:40:45.966 -> Signal detected at timestamp: 1433772ms
+14:40:46.297 -> Signal detected at timestamp: 1434087ms
+14:40:46.529 -> Signal detected at timestamp: 1434332ms
+14:40:46.861 -> Signal detected at timestamp: 1434637ms
+14:40:47.093 -> Signal detected at timestamp: 1434882ms
+14:40:47.424 -> Signal detected at timestamp: 1435197ms
+14:40:47.656 -> Signal detected at timestamp: 1435442ms
+14:40:47.955 -> Signal detected at timestamp: 1435748ms
+14:40:47.988 -> RPM: 54
+14:40:48.220 -> Signal detected at timestamp: 1435993ms
+14:40:48.518 -> Signal detected at timestamp: 1436307ms
+14:40:48.783 -> Signal detected at timestamp: 1436553ms
+14:40:49.081 -> Signal detected at timestamp: 1436859ms
+14:40:49.313 -> Signal detected at timestamp: 1437102ms
+14:40:49.644 -> Signal detected at timestamp: 1437415ms
+14:40:49.876 -> Signal detected at timestamp: 1437656ms
+14:40:50.208 -> Signal detected at timestamp: 1437962ms
+14:40:50.440 -> Signal detected at timestamp: 1438206ms
+14:40:50.771 -> Signal detected at timestamp: 1438521ms
+14:40:50.771 -> RPM: 54
+14:40:51.003 -> Signal detected at timestamp: 1438764ms
+14:40:51.302 -> Signal detected at timestamp: 1439068ms
+14:40:51.567 -> Signal detected at timestamp: 1439312ms
+14:40:51.865 -> Signal detected at timestamp: 1439626ms
+14:40:52.097 -> Signal detected at timestamp: 1439867ms
+14:40:52.429 -> Signal detected at timestamp: 1440175ms
+14:40:52.661 -> Signal detected at timestamp: 1440419ms
+14:40:52.992 -> Signal detected at timestamp: 1440735ms
+14:40:53.224 -> Signal detected at timestamp: 1440977ms
+14:40:53.523 -> Signal detected at timestamp: 1441282ms
+14:40:53.556 -> RPM: 54
+14:40:53.788 -> Signal detected at timestamp: 1441524ms
+14:40:54.086 -> Signal detected at timestamp: 1441837ms
+14:40:54.351 -> Signal detected at timestamp: 1442078ms
+14:40:54.650 -> Signal detected at timestamp: 1442384ms
+14:40:54.882 -> Signal detected at timestamp: 1442629ms
+14:40:55.213 -> Signal detected at timestamp: 1442945ms
+14:40:55.445 -> Signal detected at timestamp: 1443188ms
+14:40:55.776 -> Signal detected at timestamp: 1443494ms
+14:40:56.008 -> Signal detected at timestamp: 1443740ms
+14:40:56.340 -> Signal detected at timestamp: 1444057ms
+14:40:56.340 -> RPM: 54
+14:40:56.572 -> Signal detected at timestamp: 1444304ms
+14:40:56.903 -> Signal detected at timestamp: 1444614ms
+14:40:57.136 -> Signal detected at timestamp: 1444856ms
+14:40:57.467 -> Signal detected at timestamp: 1445171ms
+14:40:57.699 -> Signal detected at timestamp: 1445412ms
+14:40:57.997 -> Signal detected at timestamp: 1445718ms
+14:40:58.262 -> Signal detected at timestamp: 1445964ms
+14:40:58.561 -> Signal detected at timestamp: 1446279ms
+14:40:58.826 -> Signal detected at timestamp: 1446525ms
+14:40:59.124 -> Signal detected at timestamp: 1446834ms
+14:40:59.157 -> RPM: 54
+
