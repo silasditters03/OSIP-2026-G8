@@ -1,5 +1,9 @@
 # Open Hardware Documentation Challenge
 
+## TLDR
+Read the [detailed instructions](/Hardware/detailed_instructions.md) for guidance on printing, assembling and testing the gearbox.
+
+## Description
 This repository presents a small hardware project for the course Open Science for Physicists (NS-PH500M) at Utrecht University. The goal of this repository is to be a starting place for all students to find the basic documentation which they can then use the template to build up. Update it regularly and as you make choices to make it useful for the next set of students who will have to recreate your project (hopefully with better documentation). 
 
 [How to use Markdown, GitHubs formatting language](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github)
