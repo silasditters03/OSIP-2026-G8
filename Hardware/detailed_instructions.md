@@ -62,7 +62,7 @@ Now pick 2 screws out of the pink box you see in the second image. These 2 screw
 
 ## Segment 3: Testing
 
-1. To measure the rotational output of the now motorized gearbox, we need to transfer its torque to the rotating platform. To do so follow this steps:
+1. To measure the rotational output of the now motorized gearbox, we need to transfer its torque to the rotating platform. To do so follow these steps:
 2. Attach a rubber wheel to the output. Insert a plastic tube (we don't know what it is, maybe a section of cable covering) inside the wheel to make the output fit tightly. This was not enough for our model so covering the output shaft with tape is encouraged to increase its thickness.
 
 <figure style="display: flex; justify-content: space-between;">
@@ -77,7 +77,7 @@ Now pick 2 screws out of the pink box you see in the second image. These 2 screw
   <figcaption><figcaption>
 </figure>
 
-4. There should be an already assembled Arduino mounted on a protoboard. Coming out of the board there is a magnet sensor, tape it to the table, underneath the rotating platform. The arduino [code](../Software/tachometer.ino) for measuring the speed is in 'Software'. There are magnets every 1/4th of circumference on the rotating platform, which the sensor detects and the code translates into rpms.
+4. There should be an already assembled Arduino mounted on a protoboard. Coming out of the board there is a magnet sensor, tape it to the table, underneath the rotating platform. Use the Arduino IDE on a computer to upload the [code](../Software/tachometer.ino), don't forget to select the Arduino NANO model on the IDE. There are magnets every 1/4th of circumference on the rotating platform, which the sensor detects and the code translates into rpms.
 
 <figure style="display: flex; justify-content: space-between;">
   <img src="/Documents/Images/sensor.jpeg" alt="lpl sharing" style="width: 30%;"/>
